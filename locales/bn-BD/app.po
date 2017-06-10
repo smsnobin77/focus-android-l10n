@@ -103,7 +103,7 @@ msgstr "আপনার অধিকারসমূহ"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "ট্রাকার ব্লক করা হয়েছে"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -118,21 +118,21 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ব্রাউজিং ইতিহাস মুছে ফেলুন"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr ""
+msgstr "মুছুন"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ব্রাউজিং ইতিহাস মুছে ফেলুন"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -140,7 +140,7 @@ msgstr ""
 #, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "ব্যক্তিগতভাবে খুঁজুন"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -184,13 +184,13 @@ msgstr "পূর্বনির্ধারিত"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "ভাষা"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "সিস্টেম ডিফল্ট"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -356,14 +356,14 @@ msgstr "ওয়েবসাইট লোডিং বন্ধ করুন"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "পূর্ববর্তী অ্যাপে ফিরে যান"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ট্রাকার ব্লক করুন"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -556,27 +556,27 @@ msgstr "আমরা কিছু কারণবশতঃ এই পৃষ্�
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "লিংক শেয়ার করুন"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "লিংক ঠিকানা কপি করুন"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "ছবি শেয়ার করুন"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "ছবির ঠিকানা কপি করুন "
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "ছবি সংরক্ষণ করুন"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -590,7 +590,7 @@ msgstr ""
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr এমন ভাবে ব্রাউজিং করুন যাতে কেউ না দেখে"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -598,12 +598,12 @@ msgid ""
 "Automatically block online tracking while you browse. Then remove visited"
 " pages and cookies with a touch to the trash icon in the app or in your "
 "notifications."
-msgstr ""
+msgstr "নটিফিকেশন"
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "অাপনার প্রাইভেসি শক্তিশালী করুন"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
@@ -630,13 +630,13 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ঠিক আছে, পেয়েছি!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "বাদ দিন"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "পরবর্তী"
 
